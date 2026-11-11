@@ -20,7 +20,7 @@ Aplicación web full-stack para monitorear en tiempo real el estado de puertos T
 ![Tablero Principal](docs/assets/dashboard-1.png)
 
 ### Gestión de Servidores
-![Gestión de Servidores](docs/assets/dashboard-2.png)
+![Gestión de Servidores](docs/assets/Dashboard-2.png)
 
 ## 🚀 Inicio rápido
 
